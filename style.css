@@ -1,0 +1,93 @@
+html{
+    color: gray;
+    font-size: 16px;
+}
+body{
+    background-color: lightgray;
+    border: none;
+}
+header{
+    background-color: none
+}
+header img{
+    width: 10rem;
+    height: 10rem;
+}
+header nav a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.titulo-principal{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 5rem;
+}
+.parrafo-principal{
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+}
+main section img{
+    width: 20%;
+    height: 20%;
+}
+footer img{
+    width: 10rem;
+    height: 10rem;
+}
+.section-principal-img img{
+    width: 100%;
+    height: 30rem;
+}
+.principal-img{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
+.img-inicio{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
+.card-index{
+    width: 30rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    height: 17rem;
+    margin: 1rem;
+    flex-flow: wrap;
+    padding-left: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-flex{
+    display: flex;
+    margin: 1rem;
+    flex-flow: wrap
+}
+.card-flex nav{
+    display: flex;
+    padding-left: 60%;
+    align-items: top;
+}
+.card-flex nav a{
+    padding-left: 1rem;
+    display: flex;
+    font-size: 1.2rem;
+}
+.card-index img{
+    padding: 1rem;
+    width: 20rem;
+    height: 100%
+}
+.container {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+main{
+    background-color: lightblue;
+}
+section iframe{
+    height: 15rem;
+}
+
